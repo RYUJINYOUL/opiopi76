@@ -48,7 +48,7 @@ return (
                  
                  <a href='https://m.search.naver.com/search.naver?query=%EB%8F%84%EC%96%B4%EB%9D%BD+%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8+%EB%B6%84%EC%8B%A4+%ED%95%B4%EC%A0%9C%40' target='_blank'>
                  <li className='text-[#959595] p-2 text-[13px] border-1 border-[#9d9d9d]'>
-                   <span className="item_title">강대리빙텔 강대고시텔 고시원@ </span>
+                   <span className="item_title">조은열쇠@ </span>
                  </li>
                  </a>
                </ul>
