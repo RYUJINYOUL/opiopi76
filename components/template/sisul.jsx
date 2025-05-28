@@ -54,7 +54,7 @@ const Sisul = () => {
                   className="w-[225px] h-[155px] rounded-md"
                   width={225}
                   height={155}
-                  src={"/Image/mosagBGFaE.gif"}
+                  src={"/Image/mosagBGFaE.jpeg"}
                 />
           
                <div className='flex flex-col gap-1'>
@@ -63,7 +63,7 @@ const Sisul = () => {
                   className="w-[120px] h-[75px] rounded-md"
                   width={120}
                   height={75}
-                  src={"/Image/mosaFMHhSO.gif"}
+                  src={"/Image/mosaFMHhSO.jpeg"}
                 />  
       
                 <Image
@@ -71,7 +71,7 @@ const Sisul = () => {
                     className="w-[120px] h-[75px] rounded-md"
                   width={120}
                   height={75}
-                  src={"/Image/mosaXv3Mv6.gif"}
+                  src={"/Image/mosaXv3Mv6.jpeg"}
                 />  
             
                 <div className='absolute w-[30px] h-[30px] text-[16px] flex justify-center items-center text-white right-3.5 bottom-1.5 bg-black md:opacity-40 opacity-60'>11</div> 

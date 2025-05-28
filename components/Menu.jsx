@@ -55,6 +55,7 @@ export default function Menu(props) {
 
 
 const slideRight = () => {
+  const slider = document.getElementById("nav");
   if (headerImageSrc === "/map") {
     slider.scroll(300, 400)
   }

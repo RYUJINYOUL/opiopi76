@@ -50,7 +50,7 @@ const SisulNotice = () => {
           // width={530}
           // height={353}
           fill
-          src={"/Image/mosaFMHhSO.gif"}
+          src={"/Image/mosaFMHhSO.jpeg"}
         />  
         </div>
         <div className='flex flex-col md:w-[530px] w-full'>

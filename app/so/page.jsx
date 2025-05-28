@@ -27,7 +27,7 @@ function page (){
             className="object-contain"
             width={1100}
             height={800}
-            src={"/Image/mosaFMHhSO.gif"}
+            src={"/Image/mosaFMHhSO.jpeg"}
           />
         <div className='mt-10' />
         <div className='flex flex-col md:w-[1100px] w-full items-start justify-start'>
@@ -84,7 +84,7 @@ function page (){
             className="object-contain"
             width={1100}
             height={800}
-            src={"/Image/mosagBGFaE.gif"}
+            src={"/Image/mosagBGFaE.jpeg"}
           />
         <div className='mt-10' />
         <div className='flex flex-col md:w-[1100px] w-full items-start justify-start'>
@@ -107,7 +107,7 @@ function page (){
             className="object-contain"
             width={1100}
             height={800}
-            src={"/Image/mosaXv3Mv6.gif"}
+            src={"/Image/mosaXv3Mv6.jpeg"}
           />
         <div className='mt-10' />
         <div className='flex flex-col md:w-[1100px] w-full items-start justify-start'>
@@ -133,7 +133,7 @@ function page (){
             className="object-contain"
             width={1100}
             height={800}
-            src={"/Image/mosaTzcwTk.gif"}
+            src={"/Image/mosaTzcwTk.jpeg"}
           />
         <div className='mt-10' />
         <div className='flex flex-col md:w-[1100px] w-full items-start justify-start'>
@@ -155,7 +155,7 @@ function page (){
             className="object-contain"
             width={1100}
             height={800}
-            src={"/Image/mosalwJHkk.gif"}
+            src={"/Image/mosalwJHkk.jpeg"}
           />
         <div className='mt-10' />
         <div className='flex flex-col md:w-[1100px] w-full items-start justify-start'>
@@ -178,7 +178,7 @@ function page (){
             className="object-contain"
             width={1100}
             height={800}
-            src={"/Image/mosaQQBIXe.gif"}
+            src={"/Image/mosaQQBIXe.jpeg"}
           />
         <div className='mt-10' />
         <div className='flex flex-col md:w-[1100px] w-full items-start justify-start'>
@@ -280,7 +280,7 @@ function page (){
             className="object-contain"
             width={1100}
             height={800}
-            src={"/Image/mosaWYNM2n.gif"}
+            src={"/Image/mosaWYNM2n.jpeg"}
           />
         <div className='mt-10' />
 
@@ -291,7 +291,7 @@ function page (){
             className="object-contain"
             width={1100}
             height={800}
-            src={"/Image/mosaH3Bxat.gif"}
+            src={"/Image/mosaH3Bxat.jpeg"}
           />
         <div className='mt-10' />
          <div className='flex flex-col md:w-[1100px] w-full items-start justify-start'>

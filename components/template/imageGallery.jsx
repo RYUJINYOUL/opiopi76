@@ -59,14 +59,14 @@ const ImageGallery = () => {
                       width={510}
                       height={350}
                       style={{ objectFit: "cover" }}
-                      src={"/Image/mosaFMHhSO.gif"}
+                      src={"/Image/mosaFMHhSO.jpeg"}
                     />
                     <Image
                       alt="mediaItem"
                       className="w-[350px] h-[350px] hidden md:block rounded-md"
                       width={350}
                       height={350}
-                      src={"/Image/mosagBGFaE.gif"}
+                      src={"/Image/mosagBGFaE.jpeg"}
                     />  
                     <div className='flex w-[350px] flex-col gap-3'>
                     <Image
@@ -74,7 +74,7 @@ const ImageGallery = () => {
                       className="w-[350px] h-[350px] hidden md:block rounded-md"
                       width={350}
                       height={350}
-                      src={"/Image/mosaXv3Mv6.gif"}
+                      src={"/Image/mosaXv3Mv6.jpeg"}
                     />   
                     {/* <Image
                       alt="mediaItem"
@@ -93,14 +93,14 @@ const ImageGallery = () => {
                     className="w-[180px] h-[170px] hidden md:block rounded-md"
                     width={180}
                     height={170}
-                    src={"/Image/mosaTzcwTk.gif"}
+                    src={"/Image/mosaTzcwTk.jpeg"}
                   />   
                   <Image
                     alt="mediaItem"
                     className="w-[180px] h-[170px] hidden md:block rounded-md"
                     width={180}
                     height={170}
-                    src={"/Image/mosalwJHkk.gif"}
+                    src={"/Image/mosalwJHkk.jpeg"}
                   />
               </div>
               <Image
@@ -108,7 +108,7 @@ const ImageGallery = () => {
                 className="w-[520px] h-[350px] hidden md:block rounded-md"
                 width={520}
                 height={350}
-                src={"/Image/mosaQQBIXe.gif"}
+                src={"/Image/mosaQQBIXe.jpeg"}
               />   
               <Image
                 alt="mediaItem"
@@ -116,7 +116,7 @@ const ImageGallery = () => {
                 width={360}
                 height={350}
                 style={{ objectFit: "cover" }}
-                src={"/Image/mosaWYNM2n.gif"}
+                src={"/Image/mosaWYNM2n.jpeg"}
               />  
             </div>  
            
@@ -127,7 +127,7 @@ const ImageGallery = () => {
                       width={510}
                       height={350}
                       style={{ objectFit: "cover" }}
-                      src={"/Image/mosaH3Bxat.gif"}
+                      src={"/Image/mosaH3Bxat.jpeg"}
                     />
                     <Image
                       alt="mediaItem"
